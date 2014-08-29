@@ -61,3 +61,11 @@ ul {
     font-size: 18px;
     line-height: 1.5;
   }
+
+.left {
+  float: left;
+}
+
+.padded{
+  padding: 0 22px;
+}
