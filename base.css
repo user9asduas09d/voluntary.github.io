@@ -2,10 +2,6 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 1.5;
-  background-image: url('stef.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: left bottom; 
 }
 
 a,
